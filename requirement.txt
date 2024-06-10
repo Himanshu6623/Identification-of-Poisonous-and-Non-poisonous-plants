@@ -1,0 +1,7 @@
+pymongo
+pickle
+tensorflow
+numpy
+cv2
+keras
+streamlit
