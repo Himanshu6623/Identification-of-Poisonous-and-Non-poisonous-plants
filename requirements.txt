@@ -1,5 +1,4 @@
 pymongo
-pickle
 tensorflow
 numpy
 cv2
