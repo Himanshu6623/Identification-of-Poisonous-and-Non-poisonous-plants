@@ -1,6 +1,6 @@
 pymongo
 tensorflow
 numpy
-cv2
+opencv-python
 keras
 streamlit
