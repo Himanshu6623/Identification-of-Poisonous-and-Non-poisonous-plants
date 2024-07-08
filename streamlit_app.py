@@ -4,7 +4,6 @@ import tensorflow as tf
 import numpy as np
 import cv2
 import keras
-from google.colab.patches import cv2_imshow
 import streamlit as st
 
 client = MongoClient("mongodb+srv://himanshuparida191003:hi%40191003@projects.dvdnu49.mongodb.net/")
